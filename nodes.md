@@ -6,9 +6,9 @@
     "location": "New York, USA"
   },
   {
-    "id": "sv1",
-    "name": "sv1",
-    "host": "sv1.sailsecuretech.com",
-    "location": "Silicon Valley, USA"
+    "id": "jp1",
+    "name": "jp1",
+    "host": "jp1.sailsecuretech.com",
+    "location": "Tokyo, Japan"
   }
 ]
