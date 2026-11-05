@@ -6,12 +6,6 @@
 "location": "New York, USA"
 },
 {
-"id": "jp1",
-"name": "jp1",
-"host": "jp1.sailsecuretech.com",
-"location": "Tokyo, Japan"
-},
-{
 "id": "jp2",
 "name": "jp2",
 "host": "jp2.sailsecuretech.com",
